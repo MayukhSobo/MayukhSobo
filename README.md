@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukhsobo&show_icons=true&locale=en" alt="mayukhsobo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayukhsobo&" alt="mayukhsobo" /></p>
+[![Mayukh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/MayukhSobo/github-readme-stats)
