@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayukh Sarkar</h1>
-<h3 align="center">Data Scientist | Coder | Backend Engineer | Life time Student</h3>
+<h3 align="center"> Blogger | Software Engineer | Life time Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayukhsobo&label=Profile%20views&color=0e75b6&style=flat" alt="mayukhsobo" /> </p>
 
